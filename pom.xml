@@ -8,7 +8,6 @@
         <groupId>com.agilysys.pms</groupId>
         <artifactId>stay-root-pom</artifactId>
         <version>74.1945.0</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
     <properties />
     <dependencies>
