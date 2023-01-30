@@ -132,8 +132,8 @@
         </plugins>
     </build>
     <scm>
-        <connection>scm:git:ssh://git@stash.agilysys.local:7999/pms/accountinterface.git</connection>
-        <developerConnection>scm:git:ssh://git@stash.agilysys.local:7999/pms/accountinterface.git</developerConnection>
+        <connection>scm:git@github.com:sathish-gr-agilysys/AccountInterface.git</connection>
+        <developerConnection>scm:git@github.com:sathish-gr-agilysys/AccountInterface.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
